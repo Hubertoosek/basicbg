@@ -8,13 +8,13 @@
  * @donate https://www.paypal.me/MircoWittrien
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
- * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
- * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @source https://raw.githubusercontent.com/Hubertoosek/basicbg/master/BasicBackground.theme.css?token=ARMCNCGDUXOWP7JK4QVVEIC7Y57AW
+ * @updateUrl https://raw.githubusercontent.com/Hubertoosek/basicbg/master/BasicBackground.theme.css?token=ARMCNCGDUXOWP7JK4QVVEIC7Y57AW
  */
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://raw.githubusercontent.com/Hubertoosek/basicbg/master/BasicBackground.theme.css?token=ARMCNCGDUXOWP7JK4QVVEIC7Y57AW);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
